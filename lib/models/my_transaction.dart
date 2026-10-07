@@ -35,4 +35,4 @@ class MyTransaction {
     );
   }
 }
-```[cite: 17, 34, 35]
+
