@@ -111,4 +111,3 @@ class TransactionProvider with ChangeNotifier {
     await fetchAndSetTransactions();
   }
 }
-```[cite: 33, 35, 36]
